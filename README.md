@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://tlu.edu.vn/wp-content/uploads/2025/08/Logo-Truong-Dai-hoc-Thuy-loi.webp" width="120"/> </p> <h2 align="center">ĐỒ ÁN HỌC MÁY</h2> <h3 align="center">PHÂN LOẠI ẢNH BẰNG CNN – VGG16 – MOBILENETV2</h3>
+<p align="center"> <img src="https://tlu.edu.vn/wp-content/uploads/2025/08/Logo-Truong-Dai-hoc-Thuy-loi.webp" width="1200"/> </p> <h2 align="center">ĐỒ ÁN HỌC MÁY</h2> <h3 align="center">PHÂN LOẠI ẢNH BẰNG CNN – VGG16 – MOBILENETV2</h3>
 
 # Bean Leaf Disease Classification using Deep Learning
 
