@@ -8,6 +8,7 @@ Dataset: Bean Leaf Lesions Classification https://www.kaggle.com/datasets/marqui
 
 
 CÀI ĐẶT & CHẠY HỆ THỐNG
+
 🔹 Bước 1: Clone project
 
 git clone https://github.com/Bao112003/DO_AN_HOC_MAY_NHOM_4.git
